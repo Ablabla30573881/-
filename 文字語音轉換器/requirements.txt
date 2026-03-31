@@ -1,0 +1,14 @@
+f5-tts
+demucs
+gradio
+librosa
+soundfile
+pydub
+tqdm
+openai-whisper
+imageio-ffmpeg
+customtkinter
+pygame
+pyaudio
+sounddevice
+click
